@@ -1,5 +1,5 @@
-require_relative 'product_stack'
-require_relative 'coin_stack'
+require_relative 'products'
+require_relative 'payments'
 
 class Machine
 
